@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;id&apos; in &apos;blood.dto.Requests&apos; to &apos;request_id&apos;&#x0D;&#x0A;- Original project: &apos;BloodBank&apos;&#x0D;&#x0A;- Original element: &apos;blood.dto.Requests.id&apos;&#x0D;&#x0A;- Renamed element: &apos;blood.dto.Requests.request_id&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;id&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;blood.dto{Requests.java[Requests^id" name="request_id" references="true" setter="false" stamp="1707193638746" textual="false" version="1.0"/>
+</session>

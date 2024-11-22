@@ -1,0 +1,10 @@
+1706510500212	Rename compilation unit 'Management.java'
+1706598455786	Rename package 'controller'
+1706598477434	Rename package 'helper'
+1706598493459	Rename package 'dto'
+1706598510095	Rename package 'dao'
+1706598526744	Rename package 'service'
+1706683566586	Rename type 'ManagementSignupControll'
+1706685317925	Rename type 'ManagementSignupdao'
+1706685413778	Rename field 'signupdao'
+1706686153751	Delete element

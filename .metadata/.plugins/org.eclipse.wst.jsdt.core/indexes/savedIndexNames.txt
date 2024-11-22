@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\My Projects\IPL_Auction\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2256146323.index
+598787378.index
+436570534.index
+1186543078.index
+1217120971.index
+1338879700.index
+3435648363.index
+1683320898.index
